@@ -64,9 +64,11 @@ This Power BI dashboard offers a detailed analysis of chocolate product sales ac
 
           15) Tooltips: Provided country-specific breakdown insights
 
+          16) Slicer Panel: Enabled multi-select filtering across attributes
+
           <img width="1001" alt="SalesAnalyticsdashboard" src="https://github.com/user-attachments/assets/eef46a79-1f23-4956-adb0-1e12d0e92a53" />
 <img width="1069" alt="SalesAnalyticsdashboard 1" src="https://github.com/user-attachments/assets/cb428ac8-18af-4c2f-b53d-5c298b5e6cf3" />
-Slicer Panel: Enabled multi-select filtering across attributes
+
 
 
 
