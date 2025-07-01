@@ -69,6 +69,9 @@ This Power BI dashboard offers a detailed analysis of chocolate product sales ac
           <img width="1001" alt="SalesAnalyticsdashboard" src="https://github.com/user-attachments/assets/eef46a79-1f23-4956-adb0-1e12d0e92a53" />
 <img width="1069" alt="SalesAnalyticsdashboard 1" src="https://github.com/user-attachments/assets/cb428ac8-18af-4c2f-b53d-5c298b5e6cf3" />
 
+<img width="1001" alt="SalesAnalyticsdashboard" src="https://github.com/user-attachments/assets/be19ec5c-e1d6-435a-8e66-cfe465c0b863" />
+
+
 
 
 
