@@ -1,80 +1,50 @@
-Chocolate Factory Sales Analytics Dashboard
+# 🍫 Chocolate Factory Sales Analytics Dashboard – Power BI
 
-This Power BI Interactive  dashboard offers a detailed analysis of chocolate product sales across various countries and categories. Designed for data-driven decision-making, it highlights key performance indicators, profitability metrics, and advanced interactive features.
+This dashboard offers a rich and insightful view into the sales performance of a chocolate manufacturing business. With detailed breakdowns across product lines, monthly trends, and profitability, it serves as a critical decision-support tool for sales managers, supply chain analysts, and operations leads.
 
-📊 Dashboard Overview
+## 🚀 Key Highlights
 
-          Total Sales: $34.0M
+- **Top KPIs**:
+  - 📈 Total Sales: $34.0M (MOM Growth: 8.0%)
+  - 💰 Total Profit: $20.5M (MOM Change: 0.08%)
+  - 📦 Total Boxes Sold: 2M
+  - 🏷️ LBS Count: 624
+  - 🚚 Shipments: 6K
+  - 📊 Cost & Profit Trend Tracking
 
-          Total Profit: $20.5M
+- **Product Performance Analysis**:
+  - Breakdown of 20+ chocolate products by:
+    - Total Sales
+    - Total Profit
+    - Profit %
+  - Top performers include:
+    - *Peanut Butter Cubes* – 98.1% Profit Margin
+    - *Orange Choco* – 79.5%
+    - *Raspberry Choco* – 98.1%
 
-          Total Costs: $13.52M
+- **Trend Visuals**:
+  - Sales by Month (seasonal insight)
+  - Shipments by Quantity Brackets
+  - Profit Target Indicator (60.3%)
 
-          Boxes Sold: 2M
+## 📊 Use Cases
 
-          Total Shipment: 6K
+- Sales teams can monitor monthly performance and top-selling products
+- Product teams can identify high-margin SKUs for promotion
+- Operations can plan inventory based on shipment clusters
+- Executives gain a holistic view of revenue vs. cost dynamics
 
-          Profit Percentage: 60.3%
+## 🔧 Built With
 
-          LBS Count: 624
+- Microsoft Power BI
+- DAX for MOM calculations, product segmentation & profitability metrics
+- Conditional formatting and custom tooltips
 
-  Featured Visuals:
-  
-         1) Line Chart: Total Sales by Month
+## ✨ Acknowledgments
 
-         2) Histogram: Shipment distribution by box size
+This dashboard was crafted to uncover sales drivers and profit patterns using dynamic storytelling. Thanks to open-source chocolate sales datasets and Power BI's flexibility in bringing insights to life.
 
-         3) Product Table: Includes profit %, performance indicators, and targets
+Unwrap insights. Scale sweet success.
+<img width="1069" alt="SalesAnalyticsdashboard 1" src="https://github.com/user-attachments/assets/6a6cf9e3-d55d-4cbb-a29e-38fe74fa8366" />
+<img width="1001" alt="SalesAnalyticsdashboard" src="https://github.com/user-attachments/assets/e4c8ab37-7a90-47c8-b296-1878a26ed101" />
 
-         4) Gauge: Visualizes Profit and LBS %
-
-         5) Interactive Elements: Slicer panel, tooltips, bookmarks, field parameters
-
-         6) Dashboard Design Principles: Clean layout, user-friendly navigation
-          
-  Technical Highlights:
-
-          1) Data Modelling: Star schema setup for optimal performance
-
-          2) Sales Analytics KPIs: Identified critical metrics across regions and products
-
-          3) Dedicated Measure Table: Organized and reusable DAX logic
-
-          4) Time Intelligence: Month-over-Month calculations for trend analysis
-
-          5) New Card Visual: Used with reference labels for quick metrics summary
-
-          6) Troubleshooting DAX: Optimized and debugged calculated fields
-
-          7) Field Parameters: Powered dynamic trend chart across metrics
-
-          8) Group Feature: Created histogram visuals with box size categorization
-
-          9) Zoom Slider: Enhanced usability in line chart views
-
-          10) Gauge Chart: Performance indicators for profit margins and LBS ratio
-          
-          11) Table Customization: Tailored layout and interactivity
-
-          12) Conditional Formatting: Highlighted performance variances in tables
-
-          13) Bookmarks: Streamlined navigation across dashboard pages
-
-          14) Bookmark Fixes: Ensured filter and data context preservation
-
-          15) Tooltips: Provided country-specific breakdown insights
-
-          16) Slicer Panel: Enabled multi-select filtering across attributes
-
-          <img width="1001" alt="SalesAnalyticsdashboard" src="https://github.com/user-attachments/assets/eef46a79-1f23-4956-adb0-1e12d0e92a53" />
-<img width="1069" alt="SalesAnalyticsdashboard 1" src="https://github.com/user-attachments/assets/cb428ac8-18af-4c2f-b53d-5c298b5e6cf3" />
-
-<img width="1001" alt="SalesAnalyticsdashboard" src="https://github.com/user-attachments/assets/be19ec5c-e1d6-435a-8e66-cfe465c0b863" />
-
-
-
-
-
-
-
-          
