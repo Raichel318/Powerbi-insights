@@ -1,6 +1,6 @@
 Chocolate Factory Sales Analytics Dashboard
 
-This Power BI dashboard offers a detailed analysis of chocolate product sales across various countries and categories. Designed for data-driven decision-making, it highlights key performance indicators, profitability metrics, and advanced interactive features.
+This Power BI Interactive  dashboard offers a detailed analysis of chocolate product sales across various countries and categories. Designed for data-driven decision-making, it highlights key performance indicators, profitability metrics, and advanced interactive features.
 
 📊 Dashboard Overview
 
