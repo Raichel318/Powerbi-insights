@@ -20,48 +20,49 @@ This Power BI dashboard offers a detailed analysis of chocolate product sales ac
 
   Featured Visuals:
   
-          Line Chart: Total Sales by Month
+         1) Line Chart: Total Sales by Month
 
-          Histogram: Shipment distribution by box size
+         2) Histogram: Shipment distribution by box size
 
-          Product Table: Includes profit %, performance indicators, and targets
+         3) Product Table: Includes profit %, performance indicators, and targets
 
-          Gauge: Visualizes Profit and LBS %
+         4) Gauge: Visualizes Profit and LBS %
 
-          Interactive Elements: Slicer panel, tooltips, bookmarks, field parameters
+         5) Interactive Elements: Slicer panel, tooltips, bookmarks, field parameters
 
-          Dashboard Design Principles: Clean layout, user-friendly navigation
+         6) Dashboard Design Principles: Clean layout, user-friendly navigation
           
   Technical Highlights:
 
-          Data Modelling: Star schema setup for optimal performance
+          1) Data Modelling: Star schema setup for optimal performance
 
-          Sales Analytics KPIs: Identified critical metrics across regions and products
+          2) Sales Analytics KPIs: Identified critical metrics across regions and products
 
-          Dedicated Measure Table: Organized and reusable DAX logic
+          3) Dedicated Measure Table: Organized and reusable DAX logic
 
-          Time Intelligence: Month-over-Month calculations for trend analysis
+          4) Time Intelligence: Month-over-Month calculations for trend analysis
 
-          New Card Visual: Used with reference labels for quick metrics summary
+          5) New Card Visual: Used with reference labels for quick metrics summary
 
-          Troubleshooting DAX: Optimized and debugged calculated fields
+          6) Troubleshooting DAX: Optimized and debugged calculated fields
 
-          Field Parameters: Powered dynamic trend chart across metrics
+          7) Field Parameters: Powered dynamic trend chart across metrics
 
-          Group Feature: Created histogram visuals with box size categorization
+          8) Group Feature: Created histogram visuals with box size categorization
 
-          Zoom Slider: Enhanced usability in line chart views
+          9) Zoom Slider: Enhanced usability in line chart views
 
-          Gauge Chart: Performance indicators for profit margins and LBS ratio
-          Table Customization: Tailored layout and interactivity
+          10) Gauge Chart: Performance indicators for profit margins and LBS ratio
+          
+          11) Table Customization: Tailored layout and interactivity
 
-          Conditional Formatting: Highlighted performance variances in tables
+          12) Conditional Formatting: Highlighted performance variances in tables
 
-          Bookmarks: Streamlined navigation across dashboard pages
+          13) Bookmarks: Streamlined navigation across dashboard pages
 
-          Bookmark Fixes: Ensured filter and data context preservation
+          14) Bookmark Fixes: Ensured filter and data context preservation
 
-          Tooltips: Provided country-specific breakdown insights
+          15) Tooltips: Provided country-specific breakdown insights
 
           <img width="1001" alt="SalesAnalyticsdashboard" src="https://github.com/user-attachments/assets/eef46a79-1f23-4956-adb0-1e12d0e92a53" />
 <img width="1069" alt="SalesAnalyticsdashboard 1" src="https://github.com/user-attachments/assets/cb428ac8-18af-4c2f-b53d-5c298b5e6cf3" />
